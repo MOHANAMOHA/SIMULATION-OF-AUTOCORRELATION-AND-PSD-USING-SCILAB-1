@@ -90,3 +90,4 @@ __OUTPUT:__
 
 
 __RESULT:__
+Thus, the Autocorrelation and PSD are executed in Scilab and output is verified.
